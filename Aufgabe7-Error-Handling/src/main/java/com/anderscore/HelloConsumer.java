@@ -71,7 +71,7 @@ public class HelloConsumer extends Thread{
         System.err.println("Message processed - value: " + value);
     }
 
-    public void setOffset(Long parseInt) {
+    public void setOffset(Long offset) {
         this.offset = offset;
     }
 }
