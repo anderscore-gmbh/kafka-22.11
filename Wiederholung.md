@@ -1,3 +1,5 @@
+# Wiederholung Tag 1
+
 * Producer - schreibt Messages auf Partitionen.
   * Sendet Nachricht an Broker
   * Client, d.h. TCP-Verbindung zum Broker. 
